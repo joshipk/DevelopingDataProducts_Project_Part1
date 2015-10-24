@@ -1,0 +1,12 @@
+This application displays the capital and cities of the selected state.
+
+Select the state from the dropdown list.
+Tab "capital" displays the capital of the state.
+Tab "cities" diplays the list of cities in that state.
+     For each city, it displays  population, latitude and longitude.
+
+Tab "about" is documentation of this application.
+
+This data is from R Package "maps". The data set used is "us.cities".
+This data covers 1,005 cities from United States. 
+This is not the full list of all the cities in USA.
